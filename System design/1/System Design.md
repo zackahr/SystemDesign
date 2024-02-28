@@ -2,4 +2,4 @@ if we have an computer and has some of my code that run to provide some services
 
 here the cloud solution comes to solve my problem so cloud [[AWS]] .
 
-what could happen if the code on your machine can't handle all the connections there's 2 solutions [[solution 1]] and [[solution 2]], those 2 solutions are called scalability, there's positive and negative stuff of each solution let's see the [[Horizontal]], [[Vertical]].
+what could happen if the code on your machine can't handle all the connections there's 2 solutions first [[Horizontal]] and the second is [[Vertical]] the have powerful and weak points.
