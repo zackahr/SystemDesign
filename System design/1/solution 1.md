@@ -1,0 +1,1 @@
+buy bigger machine this can give us process faster so that is called vertical scaling.

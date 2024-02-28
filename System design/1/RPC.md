@@ -1,0 +1,4 @@
+  
+Network calls, often referred to as Remote Procedure Calls (RPC), are a mechanism used in distributed computing environments to allow one computer program to execute code in another address space (commonly on another machine) as if it were a local procedure call.
+
+RPC is commonly used in various distributed computing scenarios such as client-server applications, microservices architectures, and cloud computing environments to facilitate communication between different components or services across a network. It abstracts away the complexities of network communication, allowing developers to focus on building distributed systems without worrying about low-level networking details.
